@@ -1,0 +1,1 @@
+To run the simulation first run the command `python emgSignalSim.py` so the files `emg_positive_input.pwl` and `emg_negative_input.pwl` get generated. Then, you can run the command `python emgCircuitSim.py` to run the circuit simulation.
